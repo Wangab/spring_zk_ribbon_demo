@@ -1,0 +1,3 @@
+# spring_zk_ribbon_demo
+这是一个有Ribbon负载均衡和Hystrix熔断机制的Zookeeper为注册中心的服务订阅者spring cloud demo
+在clone到本地的时候，利用项目的pom.xml文件将其变成mevan项目
